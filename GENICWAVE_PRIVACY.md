@@ -75,7 +75,7 @@ We may update this Privacy Policy to reflect changes in our practices or legal r
 
 For questions or concerns about this Privacy Policy, contact:
 
-- **Email**: contact@genicwave.com
+- **Email**: genicwave@gmail.com
 - **Website**: [https://genicwave.com](https://genicwave.com/contact)
 
 ---
