@@ -1,8 +1,3 @@
-The `Privacy Policy` will outline how **GenicWave** collects, uses, and protects user data, tailored to a general IT solutions website with a contact form (e.g., `Form.tsx`). It’s written to be clear, compliant with common privacy standards (like GDPR/CCPA basics), and suitable for display on your website (e.g., linked in the footer).
-
-**File**: `PRIVACY.md`
-
-```markdown
 # Privacy Policy
 
 **Effective Date**: April 12, 2025
@@ -86,4 +81,4 @@ For questions or concerns about this Privacy Policy, contact:
 ---
 
 **Last Updated**: April 12, 2025
-```
+
